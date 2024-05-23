@@ -1,0 +1,7 @@
+for fronend :
+cd client
+npm run dev
+
+for backend
+cd server
+nodemon "./index.js"
